@@ -1,0 +1,47 @@
+* {
+    border: 1px solid black;
+}
+
+body {
+    height: 700px;
+
+}
+
+.infoSection {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 100px;
+
+}
+
+.stats {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.abilityScores {
+    width: 200px;
+}
+.abilities {
+    width: 200px;
+}
+
+.skills {
+    width: 350px;
+    height: 400px;
+}
+
+.weapons {
+    height: 300px;
+    width: 300px;
+    border: 1px red solid;
+    margin-left: 100px;
+}
+
+.spells {
+    border: 1px solid blue;
+    width: 400px;
+    height: 150px;    
+}
